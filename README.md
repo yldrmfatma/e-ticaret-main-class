@@ -2,6 +2,33 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Project Details
+
+## Technologies
+
+- React.js
+- Node.js
+- Express.js
+- Firebase
+- Stripe API
+- Sass
+
+## Features
+
+- User accounts and session management
+- Product categories and detail pages
+- Cart management and payment transactions
+- Add, update and manage products via the admin panel
+- Analysis and reporting with graphics via admin panel
+
+## Stripe API Integration and Shopping Management
+
+In this project, I managed shopping transactions with Stripe API integration and enabled users to make safe and fast payments through the APIs provided by Stripe. Additionally, the ability to view and analyze shopping transactions through Stripe's management panel and APIs was integrated, allowing the business to manage shopping processes in detail.
+
+## User Login and Registration Procedures with Firebase Authentication
+
+In this project, users' login and registration processes were managed using Firebase Authentication. Users can log in securely with their email address or Google account and create a new account.
+
 ## Available Scripts
 
 In the project directory, you can run:
