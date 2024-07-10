@@ -21,6 +21,35 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Add, update and manage products via the admin panel
 - Analysis and reporting with graphics via admin panel
 
+
+<table style="border-collapse: collapse; width: 100%;">
+  <tr style="border: none;">
+    <td style="border: none;" align="center">
+      <strong>Admin Panel</strong><br>
+      <img src="https://i.hizliresim.com/m1niiyg.png" alt="Admin Paneli" width="400">
+    </td>
+    <td style="border: none;" align="center">
+      <strong>Login and Register Page</strong><br>
+      <img src="https://i.hizliresim.com/1kw9hzs.png" alt="Authentication" width="400">
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none;" align="center">
+      <strong>Feed</strong><br>
+      <img src="https://i.hizliresim.com/t1h84y5.png" alt="Feed" width="400">
+    </td>
+    <td style="border: none;" align="center">
+      <strong>Cart and Payment Transactions</strong><br>
+      <img src="https://i.hizliresim.com/hlvcdc0.png" alt="Sepet" width="400">
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
 ## Stripe API Integration and Shopping Management
 
 In this project, I managed shopping transactions with Stripe API integration and enabled users to make safe and fast payments through the APIs provided by Stripe. Additionally, the ability to view and analyze shopping transactions through Stripe's management panel and APIs was integrated, allowing the business to manage shopping processes in detail.
